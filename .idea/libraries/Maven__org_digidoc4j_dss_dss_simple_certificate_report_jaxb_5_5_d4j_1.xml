@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.digidoc4j.dss:dss-simple-certificate-report-jaxb:5.5.d4j.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/digidoc4j/dss/dss-simple-certificate-report-jaxb/5.5.d4j.1/dss-simple-certificate-report-jaxb-5.5.d4j.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/digidoc4j/dss/dss-simple-certificate-report-jaxb/5.5.d4j.1/dss-simple-certificate-report-jaxb-5.5.d4j.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/digidoc4j/dss/dss-simple-certificate-report-jaxb/5.5.d4j.1/dss-simple-certificate-report-jaxb-5.5.d4j.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
